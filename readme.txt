@@ -5,6 +5,13 @@ V.1.0.0 new release, responsive on Phone/Tab
 V.1.0.2 fix zoom in - zoom out
 V.1.0.3 some people complaining about thank you screen that to long duration so i fix that only 1,5 sec!
 
+Feature: 
+- klik emoji bagaimana perasaan anda dengan toilet tersebut, data tersebut tersimpan di database,
+- responsive di HP dan Tablet,
+- aplikasi selalu menyala,
+- ada fitur database dashboard,
+- ada waktu dan tanggal di pojok kiri atas, mengikuti waktu dan tanggal di perangkat yang anda gunakan,
+- logo injourney jika di klik akan me-refresh tampilan.
 
 =============================================================================================================================
 
@@ -29,6 +36,7 @@ di dalam dashboard memiliki beberapa tombol yaitu:
 
 
 Note: Disaat penginstalan mohon tersambung dengan internet terlebih dahulu agar chartjs tersambung, jika sudah maka aplikasi bisa dijalankan dengan offline.
+
 
 
 

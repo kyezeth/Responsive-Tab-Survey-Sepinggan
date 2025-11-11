@@ -12,6 +12,10 @@ Feature:
 - ada fitur database dashboard,
 - ada waktu dan tanggal di pojok kiri atas, mengikuti waktu dan tanggal di perangkat yang anda gunakan,
 - logo injourney jika di klik akan me-refresh tampilan.
+- di dalam dashboard memiliki beberapa tombol yaitu:
+  - back to survey
+  - clear all data
+  - refresh data
 
 =============================================================================================================================
 
@@ -27,15 +31,11 @@ Feature:
 3. Setelah itu, akan muncul tombol “Dashboard” di pojok kiri bawah.
 4. Jika ingin menyembunyikan tombol tersebut, klik kembali logo “Injourney Airport” 10 kali maka tombol dashboard akan hilang.
 
-di dalam dashboard memiliki beberapa tombol yaitu:
-- back to survey
-- clear all data
-- refresh data
-
 =============================================================================================================================
 
 
 Note: Disaat penginstalan mohon tersambung dengan internet terlebih dahulu agar chartjs tersambung, jika sudah maka aplikasi bisa dijalankan dengan offline.
+
 
 
 

@@ -1,4 +1,4 @@
-========================DIGITAL TAB SURVEY SEPINGGAN-Application-by-Fachrieza-SMKN1TGR========================================
+* DIGITAL TAB SURVEY SEPINGGAN-Application-by-Fachrieza-SMKN1TGR *
 
 
 V.1.0.0 new release
@@ -29,5 +29,6 @@ di dalam dashboard memiliki beberapa tombol yaitu:
 
 
 Note: Disaat penginstalan mohon tersambung dengan internet terlebih dahulu agar chartjs tersambung, jika sudah maka aplikasi bisa dijalankan dengan offline.
+
 
 
